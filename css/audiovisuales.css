@@ -1,0 +1,33 @@
+.video {
+  float: left;
+  width: auto;
+  display: flex;
+}
+
+video {
+  background-color: #ff0000;
+  height:400px;
+  width: 25vw;
+  margin: 5px;
+}
+
+.centrado {
+  display: flex;
+  justify-content: center;
+}
+
+.galery {
+  margin: 5px;
+  border: 4px solid #fff;
+  float: left;
+  width: 33vw;
+}
+
+div.galery img{
+  width: 100%;
+}
+
+
+.description {
+  padding: 15px;
+}

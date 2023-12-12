@@ -1,0 +1,28 @@
+.subtitulo {
+  margin: 15px;
+  padding: 0;
+}
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.image {
+  float: right;
+  margin: 0 0 20px 20px;
+  width: 25%;
+  height: auto;
+}
+
+.image1 {
+  float: left;
+  margin: 0 0 20px 20px;
+  width: 25%;
+  height: auto;
+}
+
+h3 {
+  font-size: 23px;
+}
